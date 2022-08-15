@@ -1,2 +1,2 @@
-# Lab-activity
-IBM data tools
+# Lab-Activity
+IBM Data Tools
